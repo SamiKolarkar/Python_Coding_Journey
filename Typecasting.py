@@ -1,0 +1,15 @@
+num=90
+float_number=float(num)
+print(float_number)
+char_number=chr(num)
+print(char_number)
+string_number=str(num)
+print(string_number)
+boolean=bool(num)
+print(boolean)
+binary_number=bin(num)
+print(binary_number)
+#####--------------------------------
+num2=90.435
+int_num=int(num2)
+print(int_num)
